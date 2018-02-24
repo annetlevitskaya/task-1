@@ -1,0 +1,23 @@
+.news {
+    display:block;
+}
+
+.news__item {
+    display: inline-block;
+    width: 200px;
+    margin: 0 40px;
+    vertical-align: top;
+    background-color: #6b9ae5;
+    padding: 20px;
+}
+
+.container {
+    margin: 0 auto;
+    width: 980px;
+}
+
+.news__img {
+    width: 180px;
+    padding-bottom: 20px;
+    border-radius: 75px;
+}
